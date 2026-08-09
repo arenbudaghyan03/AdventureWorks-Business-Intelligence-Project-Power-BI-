@@ -7,9 +7,17 @@ In this project, I assumed the role of a **Business Intelligence Analyst** for *
 ![Dashboard Screenshot](exec_db.jpg)
 ---
 
+
 ## 🚀 Skills Highlighted
 
-This project demonstrates strong capabilities in **Power Query (ETL)** for data extraction and transformation, as well as building scalable relational data models using **Star Schema** principles. It highlights proficiency in **DAX** for creating calculated measures and implementing **Time Intelligence**, along with the ability to design interactive dashboards following **Data Visualization best practices**. The work also reflects **analytical thinking**, **KPI development**, and the ability to translate business needs into actionable insights.
+- **Power Query (ETL)** – data extraction, cleaning, transformation, and automation
+- **Data Modeling** – fact & dimension tables, **Star Schema**, relationships, cardinality, and filter flow
+- **DAX** – calculated columns, measures, **CALCULATE**, **FILTER**, **ALL**, and iterator functions
+- **Time Intelligence** – period-over-period analysis and trend evaluation
+- **Power BI Visualization** – **KPI cards**, charts, tables, matrices, maps, and conditional formatting
+- **Interactive Reporting** – slicers, drill-down, drillthrough, bookmarks, and page navigation
+- **Advanced Power BI Features** – custom tooltips, parameters, **Row-Level Security (RLS)**, and mobile layouts
+- **Business Intelligence** – KPI development, performance analysis, data storytelling, and translating business requirements into actionable insights
 
 ---
 
