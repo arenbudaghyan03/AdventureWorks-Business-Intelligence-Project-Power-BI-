@@ -4,6 +4,7 @@
 
 In this project, I assumed the role of a **Business Intelligence Analyst** for *AdventureWorks Cycles*, a fictional manufacturing company. The goal was to transform raw, unstructured data into professional, insight-driven dashboards that support strategic decision-making. The final solution enables tracking of **KPIs**, comparison of **regional performance**, analysis of **product-level trends**, and identification of **high-value customers**.
 
+![Dashboard Screenshot](exec_db.jpg)
 ---
 
 ## 🚀 Skills Highlighted
@@ -37,6 +38,10 @@ The third stage involved enriching the model with calculated columns and measure
 ### 🔹 Stage 4: Visualizing Data with Reports
 
 The final stage focused on building interactive dashboards using **Power BI**. Reports were designed following **data visualization best practices**, incorporating **KPI cards**, **line charts**, **trendlines**, and **matrix visuals**. Interactivity was achieved through **slicers**, **drill-down and drillthrough features**, **bookmarks**, and **navigation elements**. Additional enhancements such as **conditional formatting**, **custom tooltips**, and **map visuals** improved clarity and storytelling. The solution also included **Row-Level Security (RLS)**, **mobile optimization**, and publishing to the **Power BI Service**.
+
+![Dashboard Screenshot](map_db.jpg)
+![Dashboard Screenshot](product_db.jpg)
+![Dashboard Screenshot](customer_db.jpg)
 
 ---
 
