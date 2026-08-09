@@ -52,12 +52,3 @@ Reports were designed following **data visualization best practices**, incorpora
 ## ✅ Conclusion
 
 This project represents a complete end-to-end Business Intelligence workflow, demonstrating the ability to transform raw data into meaningful insights through **ETL processes**, **data modeling**, **DAX calculations**, and **interactive dashboards**. It reflects both technical proficiency and a strong understanding of how data supports business strategy and performance optimization.
-
----
-
-## 👤 Author
-
-**Aren Budaghyan**
-### Aspiring Data Analyst / BI Analyst with a background in banking and insurance, focused on building practical, business-oriented solutions using **Power BI** and **Excel**.
-
----
