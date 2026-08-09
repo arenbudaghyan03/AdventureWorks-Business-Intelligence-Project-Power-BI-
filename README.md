@@ -22,6 +22,8 @@ The first stage focused on building automated data preparation workflows using *
 
 ### 🔹 Stage 2: Creating a Relational Data Model
 
+![Dashboard Screenshot](Data_Model.jpg)
+
 In the second stage, the focus shifted to designing an efficient data model structured around **fact and dimension tables**. The model followed **normalization principles** and a **Star Schema design**, with relationships defined using **primary and foreign keys**. Special attention was given to **cardinality**, **filter context and flow**, and the use of **active and inactive relationships**. Additional enhancements included implementing **hierarchies**, optimizing **model layout**, and applying proper **data formatting and categorization**.
 
 ---
