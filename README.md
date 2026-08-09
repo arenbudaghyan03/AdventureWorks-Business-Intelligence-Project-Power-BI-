@@ -37,7 +37,14 @@ The third stage involved enriching the model with calculated columns and measure
 
 ### 🔹 Stage 4: Visualizing Data with Reports
 
-The final stage focused on building interactive dashboards using **Power BI**. Reports were designed following **data visualization best practices**, incorporating **KPI cards**, **line charts**, **trendlines**, and **matrix visuals**. Interactivity was achieved through **slicers**, **drill-down and drillthrough features**, **bookmarks**, and **navigation elements**. Additional enhancements such as **conditional formatting**, **custom tooltips**, and **map visuals** improved clarity and storytelling. The solution also included **Row-Level Security (RLS)**, **mobile optimization**, and publishing to the **Power BI Service**.
+The final stage focused on building interactive dashboards using **Power BI**:
+
+** Executive Dashboard,
+** Map Dashboard,
+** Product Dashboard,
+** Customer Dashboard.
+
+Reports were designed following **data visualization best practices**, incorporating **KPI cards**, **line charts**, **trendlines**, and **matrix visuals**. Interactivity was achieved through **slicers**, **drill-down and drillthrough features**, **bookmarks**, and **navigation elements**. Additional enhancements such as **conditional formatting**, **custom tooltips**, and **map visuals** improved clarity and storytelling. The solution also included **Row-Level Security (RLS)**, **mobile optimization**, and publishing to the **Power BI Service**.
 
 
 ---
