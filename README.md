@@ -58,6 +58,6 @@ This project represents a complete end-to-end Business Intelligence workflow, de
 ## 👤 Author
 
 **Aren Budaghyan**
-Aspiring Data Analyst / BI Analyst with a background in banking and insurance, focused on building practical, business-oriented solutions using **Power BI** and **Excel**.
+### Aspiring Data Analyst / BI Analyst with a background in banking and insurance, focused on building practical, business-oriented solutions using **Power BI** and **Excel**.
 
 ---
